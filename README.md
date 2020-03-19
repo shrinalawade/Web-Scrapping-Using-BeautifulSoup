@@ -4,7 +4,7 @@ A simple BeautifulSoup implementation in python for scrapping country wise GeoJS
 A simple tutorial that elaborates the use of BeautifulSoup to extract Country wise GEO JSON from a website
 
 Steps to RUN:
-1. Clone for download the repository in a zip file format.
+1. Clone or download the repository in a zip file format.
 2. UnZip 
 3. Go to the folder
 4. Open Command prompt and hit command- python GeoJSONScrap.py
