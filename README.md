@@ -1,7 +1,5 @@
 # Web-Scrapping-Using-BeautifulSoup
-A simple BeautifulSoup implementation in python for scrapping country wise GeoJSON from URL-'http://code.highcharts.com/mapdata/'
-
-A simple tutorial that elaborates the use of BeautifulSoup to extract Country wise GEO JSON from a website
+A simple tutorial that elaborates the use of BeautifulSoup to extract Country wise GEO JSON from a URL-'http://code.highcharts.com/mapdata/'
 
 Steps to RUN:
 1. Clone or download the repository in a zip file format.
@@ -27,5 +25,5 @@ Steps to RUN:
   13).Historical:France Regions Admin 2 (2015)  
   Enter your choice: 
 
-6. Enter your choice of which you want to extract Geo JSON's - Hit Enter
-7. All the GEO JSON's of all countries gets downloaded in the folder in .json format
+6. Enter your choice of whose user want's to extract Geo JSON's - Hit Enter
+7. The GEO JSON's of all countries under the choosen category gets downloaded in the folder as .json format
